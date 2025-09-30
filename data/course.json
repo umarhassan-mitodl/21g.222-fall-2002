@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "English as a Second Language"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "legacy_uid": "71bbfc6b-8272-24d0-4314-ec5b4c901199",
+  "instructors": {
+    "content": [
+      "60012e7c-181c-e44e-731e-250f6cb6b09a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7ea5e82c-1a3e-8b6e-36dd-56bd61b0a3a6",
+    "website": "21g-222-expository-writing-for-bilingual-students-fall-2002"
+  },
+  "course_title": "Expository Writing for Bilingual Students",
+  "hide_download": true,
+  "course_description": "The purpose of this course is to develop your writing skills so that you can feel confident writing the essays, term papers, reports, and exams you will have to produce during your career here at MIT. We will read and analyze samples of expository writing, do some work on vocabulary development, and concentrate on developing your ability to write clear, accurate, sophisticated prose.\u00a0We will also deal with the grammar and mechanical problems you may have trouble with.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.222",
+  "course_image_thumbnail": {
+    "content": "46764cb6-40cb-e6ba-8fb7-8ce4e61bbfd8",
+    "website": "21g-222-expository-writing-for-bilingual-students-fall-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "a19f2fbc-7d4b-4d34-a262-10f5e8f739bd",
+  "site_short_id": "21g.222-fall-2002",
+  "site_url_path": "courses/21g-222-expository-writing-for-bilingual-students-fall-2002",
+  "title": "Course Metadata"
+}
