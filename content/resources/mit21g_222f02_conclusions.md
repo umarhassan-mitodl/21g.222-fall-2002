@@ -4,8 +4,6 @@ description: This resource contains information regarding conclusions- student s
 file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/52d2686b51a2b7db6b0e917f69695346_MIT21G_222F02_conclusions.pdf
 file_size: 107341
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
